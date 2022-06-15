@@ -1,8 +1,9 @@
-# arch
+# ARCH-02
 
-A new Flutter project by devtvas.
+- Models
+- Regra de negocio
 
-## Getting Started
+## 02 Models
 
 Este projeto foi realizado e baseado nos principios SOLID de arquitetura.
 
