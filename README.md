@@ -1,6 +1,10 @@
-# arch
+# ARCH-01
 
-A new Flutter project by devtvas.
+- Tela Home
+- Tela Login
+- Pasta components
+- Pasta controller
+- Pasta views
 
 ## Getting Started
 
