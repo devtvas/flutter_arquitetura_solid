@@ -18,8 +18,8 @@ Utilizaremos a arquitetura - SRP(single-responsability-principle).
 
 ### Screenshots 
 
-<img src="assets/versao1.png" height="500em" /> 
-<img src="assets/versao2.png" height="500em" />
+<img src="assets/images/versao1.png" height="500em" /> 
+<img src="assets/images/versao2.png" height="500em" />
 
 <h2>Detalhes de Configuracao</h2>
   
