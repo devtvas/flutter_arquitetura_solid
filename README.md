@@ -1,11 +1,12 @@
-# ARCH-02
+# ARCH-03
 
-- Models
-- Regra de negocio
+- Camada Services
+- Contrato de Interfaces
+- LocalStorage
 
 <h2>Link da aula</h2>
 
- - [Aula02](https://www.youtube.com/playlist?list=PLlBnICoI-g-c_ZIHqzQjg5E4Re92-qYXn)
+ - [Curso completo](https://www.youtube.com/playlist?list=PLlBnICoI-g-c_ZIHqzQjg5E4Re92-qYXn)
 
 
 
@@ -41,7 +42,8 @@
   + Dart: versao 2.17.3
   + Design Pattern: MVVM
   + Dependencias Utilizadas:  
-    - intl: 
+    - intl:
+    - shared_preferences 
     
 
 
