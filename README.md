@@ -1,8 +1,7 @@
-# ARCH-03
+# ARCH-04
 
-- Camada Services
-- Contrato de Interfaces
-- LocalStorage
+- Camada ViewModel
+- Refatoracao arquivo AppController
 
 <h2>Link da aula</h2>
 
